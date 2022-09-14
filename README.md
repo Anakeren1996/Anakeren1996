@@ -1,5 +1,5 @@
 ## Hello!! I am Ana!
-- 🌱 I’m currently learning HTML, CSS(sass), bootstrap, javascript.
+- 🌱 I’m currently learning HTML, CSS, Sass, Bootstrap, Javascript, wordpress, Php, Java.
 - 📫 How to reach me: https://www.linkedin.com/in/ana-keren-lima-789118195/
 
 <div align="left">

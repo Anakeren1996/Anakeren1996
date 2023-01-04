@@ -1,5 +1,5 @@
 ## Hello!! I am Ana!
-- I’m currently learning HTML, CSS, Sass, Angular, Bootstrap, Javascript, wordpress, Php.
+- I’m currently learning HTML, CSS, Sass, Bootstrap, Javascript e wordpress.
 - How to reach me: https://www.linkedin.com/in/ana-keren-lima-789118195/
 - Portfólio: https://ana-portfolio-black.vercel.app/
  

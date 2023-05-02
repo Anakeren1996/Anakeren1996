@@ -12,15 +12,17 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Ana-SASS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" alt="Ana-PHP" height="30" width="40"
+    <img align="center" alt="Ana-Git" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Ana-PHP" height="30" width="40"
+    <img align="center" alt="Ana-Github" height="30" width="40" background="white"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <h2>I have also worked with:</h2>
     <img align="center" alt="Ana-PHP" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Ana-PHP" height="30" width="40"
+    <img align="center" alt="Ana-Wordpress" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+    <img align="center" alt="Ana-Figma" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
 

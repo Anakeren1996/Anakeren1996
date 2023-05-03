@@ -1,4 +1,4 @@
-## Hi guys, my name is Ana!!
+## Hi, my name is Ana!!
 
 <p>I'm a junior front-end developer. I'm a programming and English student, and I'm also passionate about personal development. I'm interested in improving my front-end skills and becoming a full-stack developer. I'm also curious about app development.</p>
 

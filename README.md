@@ -24,8 +24,8 @@
 ##
  
 <div> 
-  <a href="https://www.instagram.com/keeren.1996/" target="__blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="__blank"></a>
-  <a href="https://www.linkedin.com/in/ana-keren-lima-789118195/" target="__blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a> 
+  <a href="https://www.instagram.com/keeren.1996/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-keren-lima-789118195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
   

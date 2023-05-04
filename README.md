@@ -13,6 +13,8 @@
     <img align="center" alt="Ana-SASS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <h2>I have also worked with:</h2>
+    <img align="center" alt="Ana-Bootstrap" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Ana-PHP" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Ana-Wordpress" height="30" width="40"

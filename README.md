@@ -2,6 +2,11 @@
 
 <p>I'm a junior front-end developer. I'm a programming and English student, and I'm also passionate about personal development. I'm interested in improving my front-end skills and becoming a full-stack developer. I'm also curious about app development.</p>
 
+### My portfolio:
+<div style="display: inline_block"><br>
+      <a href="https://ana-portfolio-black.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div>
+
 ### Skills I'm currently improving:
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,7 +28,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/ana-keren-lima-789118195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="keeren.1996@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.instagram.com/keeren.1996/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 

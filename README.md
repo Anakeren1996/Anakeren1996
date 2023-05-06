@@ -8,6 +8,10 @@
       <a href="https://ana-portfolio-black.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=Anakeren1996&show_icons=true&theme=synthwave)
+
 ### Skills I'm currently improving:
 
 <div style="display: inline_block"><br>
@@ -33,7 +37,3 @@
   <a href="https://www.linkedin.com/in/ana-keren-lima-789118195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/keeren.1996/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=Anakeren1996&show_icons=true&theme=synthwave)

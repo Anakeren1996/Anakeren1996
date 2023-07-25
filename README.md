@@ -8,10 +8,6 @@
       <a href="https://ana-portfolio-black.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=Anakeren1996&show_icons=true&theme=synthwave)
-
 ### Skills I'm currently improving:
 
 <div style="display: inline_block"><br>
